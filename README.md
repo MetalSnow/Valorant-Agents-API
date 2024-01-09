@@ -16,4 +16,4 @@ Technologies Used:
 -MongoDB
 -Comprehensive error handling for a seamless user experience
 -Authentication for user security
--Heroku for deployment 
+-Render for deployment 
